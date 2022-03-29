@@ -1,0 +1,10 @@
+[package]
+name = "juniper-example"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+actix-web-lab = "0.10"
+actix-cors = "0.6"
+juniper = "0.15"
